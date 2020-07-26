@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/p">
+        <file>button_img.png</file>
+        <file>item_img.png</file>
+        <file>background.png</file>
+        <file>back.png</file>
+        <file>back2.png</file>
+        <file>mainback.png</file>
+        <file>0.jpg</file>
+        <file>dingding.jpeg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>btn_img.png</file>
+        <file>dingding.ico</file>
+    </qresource>
+</RCC>
